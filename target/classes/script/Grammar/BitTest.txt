@@ -1,0 +1,6 @@
+num & 11
+num | 11
+num ^ 10
+~num
+num<<2
+num>>2

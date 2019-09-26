@@ -1,0 +1,6 @@
+'a'<'b'
+'a'<='b'
+'a'=='a'
+test=='a'
+test<='a'
+'a'>=test

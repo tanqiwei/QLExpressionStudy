@@ -1,0 +1,1 @@
+object.amount*2+object.volume

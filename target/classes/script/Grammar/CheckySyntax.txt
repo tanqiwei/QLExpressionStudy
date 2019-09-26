@@ -1,0 +1,7 @@
+import java.text.SimpleDateFormat;new SimpleDateFormat()
+a = new java.text.SimpleDateFormat()
+import org.envision.tqw.study.BeanDefine.ObjectBean;a = new ObjectBean();
+import org.envision.tqw.study.BeanDefine.*;a = new ObjectBean();
+import org.envision.tqw.study.BeanDefine.ObjectBean;a = new org.envision.tqw.study.BeanDefine.ObjectBean();
+a = new org.envision.tqw.study.BeanDefine.ObjectBean();if('new'.equals(op)){System.out.println('ok');}
+import org.envision.tqw.study.BeanDefine.ObjectBeanT;a = new ObjectBeanT();

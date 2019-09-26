@@ -1,0 +1,4 @@
+function FAILFUN(Integer errorCode,String message){
+         System.out.println(errorCode+" "+message);
+         return NewMap("message":message,"errorCode":errorCode,"success":false);
+}

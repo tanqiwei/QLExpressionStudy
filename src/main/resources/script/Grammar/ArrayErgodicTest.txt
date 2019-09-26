@@ -1,0 +1,9 @@
+list = new ArrayList();
+list.add("a");
+list.add("b");
+list.add("c");
+list.add("d");
+for(i=0;i<list.size();i++){
+    item = list.get(i);
+    System.out.println(item);
+}

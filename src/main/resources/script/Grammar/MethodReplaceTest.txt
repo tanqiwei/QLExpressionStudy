@@ -1,0 +1,2 @@
+getTemplate([11,'22',33L,true])
+getTemplate(11,'22',33L,true)

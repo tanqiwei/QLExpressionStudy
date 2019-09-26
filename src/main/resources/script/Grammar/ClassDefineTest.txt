@@ -1,0 +1,8 @@
+int a = 100;
+class ABC(){
+ int a = 200;
+ println a;
+}
+ABC  abc = new ABC();
+println a + abc.a;
+return a + abc.a;

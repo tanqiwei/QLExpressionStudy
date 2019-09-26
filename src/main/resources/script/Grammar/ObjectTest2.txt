@@ -1,0 +1,5 @@
+import org.envision.tqw.study.BeanDefine.ObjectBean;
+aObject = new ObjectBean();
+aObject.setAmount(100);
+aObject.volume = 20;
+System.out.println("Volume:\n"+aObject.getVolume());

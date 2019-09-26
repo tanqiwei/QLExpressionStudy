@@ -1,0 +1,10 @@
+function add(int a,int b){
+  return a+b;
+};
+
+function sub(int a,int b){
+  return a - b;
+};
+
+a=10;
+return add(a,4) + sub(a,9);

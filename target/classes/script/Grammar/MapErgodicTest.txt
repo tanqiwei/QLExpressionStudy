@@ -1,0 +1,10 @@
+map = new HashMap();
+map.put("T","tan");
+map.put("Q","qi");
+map.put("W","wei");
+keySet = map.keySet();
+objArr = keySet.toArray();
+for (i=0;i<objArr.length;i++) {
+  key = objArr[i];
+  System.out.println(map.get(key));
+}

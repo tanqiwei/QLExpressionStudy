@@ -1,0 +1,4 @@
+取绝对值(-100);
+转换为大写("hello world");
+打印("你好吗?");
+contains("helloworld","aeiou");

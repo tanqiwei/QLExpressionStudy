@@ -1,0 +1,4 @@
+keys = new ArrayList();
+deviceName2Value = new HashMap();
+deviceNames = ["ng","si","umid","ut","mac","imsi","imei"];
+mins = [5,30];

@@ -1,0 +1,11 @@
+class ABC(org.envision.tqw.study.BeanDefine.BeanExample bean,String name){
+    姓名= name;
+    计数器 = new InnerClass();
+    整数值:bean.intValue;
+    浮点值:bean.doubleValue;
+    哈希值:{bean.hashCode();};
+    function add(int a,int b){    return a + b + 整数值 + 计数器.计数;};
+    class InnerClass(){
+        int 计数 =200;
+    };
+};

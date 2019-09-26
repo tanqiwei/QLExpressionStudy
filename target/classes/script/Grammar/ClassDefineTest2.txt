@@ -1,0 +1,10 @@
+ABC example = new ABC(new org.envision.tqw.study.BeanDefine.BeanExample(),'xuannan');
+ABC example2 = new ABC(new org.envision.tqw.study.BeanDefine.BeanExample(),'xuanyu');
+example.整数值 =100;
+example2.整数值 =200;
+example.浮点值= 99.99;
+example2.浮点值= 11.11;
+example.浮点值 = example.浮点值 + example.整数值;
+result = example.add(10,20) +'--'+ example2.add(10,20) +'--'+  example.姓名 +'--'+ example2.姓名 +'--'+ example.浮点值 +'--' + example2.浮点值 ;
+println result;
+return result ;
